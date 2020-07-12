@@ -1,0 +1,7 @@
+Package: [Write here]
+Maintainer: [Your Name] <[Mail]>
+Section: fonts
+Priority: optional
+Architecture: all
+Depends: ${misc:Depends}
+Description: [Write here]
