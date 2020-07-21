@@ -17,5 +17,5 @@ mv ./*.ttf "${fontname}"
 rm "${zipname}"
 cd ../../../..
 dpkg -b "${fontname}"
-sudo apt install ./"${fontname}".deb
+sudo apt install "./${fontname}.deb"
 cd ..
